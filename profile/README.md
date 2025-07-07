@@ -24,7 +24,7 @@
 
 | Repository         | 설명                                                                 |
 |------------------|----------------------------------------------------------------------|
-| [`luna-core`](https://github.com/lucid-luna/luna-core)     | 백엔드 및 모델 관리리 관리                               |
+| [`luna-core`](https://github.com/lucid-luna/luna-core)     | 백엔드 및 모델 관리                               |
 | [`luna-client`](https://github.com/lucid-luna/luna-client) | 3D 모델 관리 및 프론트엔드 처리                         |
 | [`luna-plugins`](https://github.com/lucid-luna/luna-plugins) | 프로젝트 모델에 사용할 수 있는 확장 플러그인 관리                  |
 | [`luna-models`](https://github.com/lucid-luna/luna-models) | L.U.N.A.에서 사용할 커스텀 AI 모델 관리                            |
