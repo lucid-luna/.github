@@ -5,12 +5,12 @@
 <h1 align="center">L.U.N.A.</h1>
 <h3 align="center">Lucid Undulation Neural Aether</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#🧭-소개">소개</a> •
   <a href="#📂-repository">구성 리포지토리</a> •
   <a href="#✨-기능">기능</a> •
   <a href="#🚀-설치-및-실행">설치 및 실행</a> •
-</p>
+</p> -->
 
 ---
 
