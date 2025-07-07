@@ -22,6 +22,11 @@
 
 ## 📂 Repository
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lucid-luna/luna-assets/main/icons/core.png" width="20"/>
+  <a href="https://github.com/lucid-luna/luna-core"><b>luna-core</b></a> — 백엔드 및 모델 관리
+</p>
+
 | Repository         | 설명                                                                 |
 |------------------|----------------------------------------------------------------------|
 | [`luna-core`](https://github.com/lucid-luna/luna-core)     | 백엔드 및 모델 관리                               |
